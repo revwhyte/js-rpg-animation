@@ -1,2 +1,3 @@
 # js-rpg-animation
-Testing some animations with JS, for a future RPG tool
+It's been used!
+Check it [here](https://github.com/revwhyte/rpg-log/tree/main)!
